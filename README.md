@@ -12,6 +12,7 @@ Important Notes:
 5.	Depending on the delimiter used in your file, you may need to modify the separation condition in line 55 of the code to ensure proper execution.  
 6.	You are welcome to use or modify the standard spectral library provided in the Excel files for non-commercial purposes, without prejudice to our rights.
     
+The current version of the library is not yet available for public access. Please feel free to contact us if you require further information or wish to be notified upon its release.  
 We welcome your feedback on this detection method—including its application scenarios and effectiveness.  
 As the detection schemes for microplastics are not yet standardized, there remains significant room for optimization. If you have any suggestions or would like to collaborate, please feel free to reach out to us.  
 Contact e-mail: suting231@mails.ucas.ac.cn  
